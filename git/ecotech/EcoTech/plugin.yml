@@ -1,0 +1,6 @@
+name: EcoTech
+main: lp.pl.EcoTech.Main
+version: 1.0
+commands:
+  tech:
+    description: General EcoTech cmd.
